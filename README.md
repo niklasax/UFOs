@@ -17,4 +17,4 @@ Data table and filter
 ![image_name](https://github.com/niklasax/UFOs/blob/main/Data%20and%20Filter.png)
 
 ## Summary
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+In summary, the page is functional and does the overall job it's intended to do. One drawback is a lack of 'download table' button to export the list of results. Another drawback is the formatting in the 'comments' column; due to formatting there are varous #44s and digits. To improve this in the next iteration, we could fix the comment formatting and add a download button for convenience.
